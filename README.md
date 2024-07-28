@@ -23,3 +23,6 @@
 <br>
 
 #### 6.验证成功。
+
+#### 可以参考这个网站
+[](https://oneclick.earth/help/appleid.html)
